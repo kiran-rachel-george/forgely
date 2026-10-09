@@ -1,5 +1,8 @@
 # Forgely
 
+[![CI](https://github.com/kiran-rachel-george/forgely/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-rachel-george/forgely/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **Describe your app. Watch it come to life.**
 
 Forgely is an AI app builder. You type what you want in plain English, and it streams back a working **Vite + React + TypeScript + Tailwind** front end. You can then preview it live, edit the code in the browser, refine it by chatting, and roll back through version history or download the project as a ZIP.
