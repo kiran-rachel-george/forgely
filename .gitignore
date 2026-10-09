@@ -1,0 +1,49 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# testing
+/coverage
+
+# environment files: keep secrets out, keep the template in
+.env
+.env*.local
+.env.*
+!.env.example
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.pem
+
+# local AI tooling
+.claude/
+.agents/
+skills-lock.json
+
+# local debugging screenshots
+/images/
+
+# supabase CLI local state
+supabase/.temp/
